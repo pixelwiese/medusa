@@ -303,9 +303,9 @@
       "lastThirtyDays": "Letzte 30 Tage",
       "lastNinetyDays": "Letzte 90 Tage",
       "lastTwelveMonths": "Letzte 12 Monate",
-      "custom": "Brauch",
-      "from": "Aus",
-      "to": "Zu"
+      "custom": "Benutzerdefiniert",
+      "from": "Von",
+      "to": "Bis"
     },
     "compare": {
       "lessThan": "Weniger als",
