@@ -1,5 +1,5 @@
-import en from "./en.json"
 import de from "./de.json"
+import en from "./en.json"
 import pl from "./pl.json"
 
 export default {
@@ -8,6 +8,7 @@ export default {
   },
   de: {
     translation: de,
+  },
   pl: {
     translation: pl,
   },
