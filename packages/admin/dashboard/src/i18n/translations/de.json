@@ -1178,9 +1178,9 @@
         "noItems": "Keine zu versendenden Produkte."
       },
       "status": {
-        "notFulfilled": "Nicht erfüllt",
-        "partiallyFulfilled": "Teilweise erfüllt",
-        "fulfilled": "Erfüllt",
+        "notFulfilled": "Ausstehend",
+        "partiallyFulfilled": "Teilweise versandbereit",
+        "fulfilled": "Versandbereit",
         "partiallyShipped": "Teilweise versandt",
         "shipped": "Ausgeliefert",
         "delivered": "Geliefert",
@@ -1192,7 +1192,7 @@
       },
       "toast": {
         "created": "Erfüllung erfolgreich erstellt",
-        "canceled": "Die Erfüllung wurde erfolgreich abgebrochen",
+        "canceled": "Die Erfüllung wurde abgebrochen",
         "fulfillmentShipped": "Eine bereits versandte Erfüllung kann nicht storniert werden",
         "fulfillmentDelivered": "Die Erfüllung wurde als erfolgreich geliefert markiert"
       },
