@@ -856,10 +856,10 @@
     },
     "fields": {
       "guest": "Gast",
-      "registered": "Eingetragen",
+      "registered": "Registriert",
       "groups": "Gruppen"
     },
-    "registered": "Eingetragen",
+    "registered": "Registriert",
     "guest": "Gast",
     "hasAccount": "Hat Konto"
   },
