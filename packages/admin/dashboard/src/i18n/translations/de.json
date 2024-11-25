@@ -1162,20 +1162,20 @@
       "awaitingFulfillmentBadge": "Warten auf Erfüllung",
       "requiresShipping": "Erfordert Versand",
       "number": "Erfüllung #{{number}}",
-      "itemsToFulfill": "Zu erfüllende Gegenstände",
-      "create": "Schaffen Sie Erfüllung",
+      "itemsToFulfill": "Zu versendende Produkte",
+      "create": "Erfüllung erstellen",
       "available": "Verfügbar",
       "inStock": "Auf Lager",
       "markAsShipped": "Als versendet markieren",
       "markAsDelivered": "Als geliefert markieren",
-      "itemsToFulfillDesc": "Wählen Sie die zu erfüllenden Artikel und Mengen aus",
+      "itemsToFulfillDesc": "Wählen Sie die zu versendenden Artikel und Mengen aus",
       "locationDescription": "Wählen Sie den Standort aus, von dem aus Sie Artikel versenden möchten.",
-      "sendNotificationHint": "Benachrichtigen Sie Kunden über die erstellte Erfüllung.",
+      "sendNotificationHint": "Benachrichtigen Sie Kunden über die erstellte Lieferung.",
       "methodDescription": "Wählen Sie eine andere Versandart als die vom Kunden ausgewählte",
       "error": {
         "wrongQuantity": "Es steht nur ein Artikel zur Erfüllung zur Verfügung",
         "wrongQuantity_other": "Die Menge sollte eine Zahl zwischen 1 und {{number}} sein.",
-        "noItems": "Keine zu erfüllenden Punkte."
+        "noItems": "Keine zu versendenden Produkte."
       },
       "status": {
         "notFulfilled": "Nicht erfüllt",
