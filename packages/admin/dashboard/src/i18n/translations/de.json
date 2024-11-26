@@ -205,7 +205,7 @@
       },
       "settings": {
         "goToSettings": "Einstellungen",
-        "goToStore": "Speichern",
+        "goToStore": "Shop",
         "goToUsers": "Benutzer",
         "goToRegions": "Regionen",
         "goToTaxRegions": "Steuerregionen",
@@ -249,7 +249,7 @@
         "extensions": "Erweiterungen"
       },
       "main": {
-        "store": "Speichern",
+        "store": "Shop",
         "storeSettings": "Einstellungen speichern"
       },
       "settings": {
