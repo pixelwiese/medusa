@@ -106,7 +106,7 @@
     "delete": "Löschen",
     "remove": "Entfernen",
     "revoke": "Widerrufen",
-    "cancel": "Stornieren",
+    "cancel": "Abbrechen",
     "forceConfirm": "Bestätigung erzwingen",
     "continueEdit": "Bearbeiten Sie weiter",
     "enable": "Aktivieren",
@@ -944,7 +944,7 @@
         "partiallyRefunded": "Teilweise erstattet",
         "partiallyCaptured": "Teilweise erfasst",
         "refunded": "Erstattet",
-        "canceled": "Abgesagt",
+        "canceled": "Abgebrochen",
         "requiresAction": "Erfordert Maßnahmen"
       },
       "capturePayment": "Die Zahlung von {{amount}} wird erfasst.",
@@ -1187,7 +1187,7 @@
         "partiallyDelivered": "Teilweise geliefert",
         "partiallyReturned": "Teilweise zurückgegeben",
         "returned": "Zurückgegeben",
-        "canceled": "Abgesagt",
+        "canceled": "Storniert",
         "requiresAction": "Erfordert Maßnahmen"
       },
       "toast": {
