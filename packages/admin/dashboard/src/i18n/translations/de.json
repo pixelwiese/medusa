@@ -24,7 +24,7 @@
     "error": "Fehler",
     "select": "Wählen",
     "selected": "Ausgewählt",
-    "enabled": "Ermöglicht",
+    "enabled": "Aktiviert",
     "disabled": "Deaktiviert",
     "expired": "Abgelaufen",
     "active": "Aktiv",
@@ -2571,7 +2571,7 @@
     "scheduled": "Geplant",
     "expired": "Abgelaufen",
     "active": "Aktiv",
-    "enabled": "Ermöglicht",
+    "enabled": "Aktiviert",
     "disabled": "Deaktiviert"
   },
   "labels": {
