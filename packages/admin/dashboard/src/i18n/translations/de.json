@@ -515,7 +515,7 @@
         "label": "Untertitel"
       },
       "handle": {
-        "label": "Handhaben",
+        "label": "Handle",
         "tooltip": "Der Handle wird verwendet, um auf das Produkt in Ihrer Storefront zu verweisen. Wenn nicht angegeben, wird das Handle aus dem Produkttitel generiert."
       },
       "description": {
