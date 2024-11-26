@@ -2473,8 +2473,8 @@
     "transactionIdLabel": "Transaktions-ID",
     "workflowIdLabel": "Workflow-ID",
     "progressLabel": "Fortschritt",
-    "stepsCompletedLabel_one": "{{abgeschlossen}} von {{count}} Schritt",
-    "stepsCompletedLabel_other": "{{abgeschlossen}} von {{count}} Schritten",
+    "stepsCompletedLabel_one": "{{completed}} von {{count}} Schritt",
+    "stepsCompletedLabel_other": "{{completed}} von {{count}} Schritten",
     "list": {
       "noRecordsMessage": "Es wurden noch keine Workflows ausgeführt."
     },
