@@ -34,7 +34,7 @@
     "added": "Hinzugefügt",
     "removed": "ENTFERNT",
     "admin": "Admin",
-    "store": "Speichern",
+    "store": "Shop",
     "details": "Einzelheiten",
     "items_one": "{{count}} Artikel",
     "items_other": "{{count}} Artikel",
@@ -205,7 +205,7 @@
       },
       "settings": {
         "goToSettings": "Einstellungen",
-        "goToStore": "Speichern",
+        "goToStore": "Shop",
         "goToUsers": "Benutzer",
         "goToRegions": "Regionen",
         "goToTaxRegions": "Steuerregionen",
@@ -233,8 +233,8 @@
         }
       },
       "store": {
-        "label": "Speichern",
-        "storeSettings": "Einstellungen speichern"
+        "label": "Shop",
+        "storeSettings": "Shop-Einstellungen"
       },
       "actions": {
         "logout": "Abmelden"
@@ -249,8 +249,8 @@
         "extensions": "Erweiterungen"
       },
       "main": {
-        "store": "Speichern",
-        "storeSettings": "Einstellungen speichern"
+        "store": "Shop",
+        "storeSettings": "Shop-Einstellungen"
       },
       "settings": {
         "header": "Einstellungen",
