@@ -1,5 +1,20 @@
 # @medusajs/core-flows
 
+## 2.6.2
+
+### Patch Changes
+
+- [#11569](https://github.com/medusajs/medusa/pull/11569) [`cb6249320e7322e8eabfec8434f1278f8d63e96c`](https://github.com/medusajs/medusa/commit/cb6249320e7322e8eabfec8434f1278f8d63e96c) Thanks [@riqwan](https://github.com/riqwan)! - feat(order,types,medusa,core-flows): fix(types,order,medusa,core-flows): create order credit lines during order refund
+
+- [#11790](https://github.com/medusajs/medusa/pull/11790) [`8385a5e34d9528eb3d80d16f391ee7f44a6e5d90`](https://github.com/medusajs/medusa/commit/8385a5e34d9528eb3d80d16f391ee7f44a6e5d90) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows): recreate fulfilment reservations on cancelation, handle inventory kits in fulfillment flows
+
+- [#11872](https://github.com/medusajs/medusa/pull/11872) [`9dd62d93bd9e2acccc2e9f22bc029fd2b0df3234`](https://github.com/medusajs/medusa/commit/9dd62d93bd9e2acccc2e9f22bc029fd2b0df3234) Thanks [@riqwan](https://github.com/riqwan)! - feat(core-flows,types,utils): make payment optional when cart balance is 0
+
+- [#11977](https://github.com/medusajs/medusa/pull/11977) [`01089d5bc81bc92311bb43b2d57d987fee378030`](https://github.com/medusajs/medusa/commit/01089d5bc81bc92311bb43b2d57d987fee378030) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - chore(core-flows): skip prices list ops when no data
+
+- Updated dependencies [[`ec56a8bc857a74788df6523af25914da95c4c1d8`](https://github.com/medusajs/medusa/commit/ec56a8bc857a74788df6523af25914da95c4c1d8)]:
+  - @medusajs/framework@2.6.2
+
 ## 2.6.1
 
 ### Patch Changes
